@@ -27,7 +27,7 @@
 ## Main Challenges
 
 - We should be able to trust data from oracles but that requires we trust oracles, but can we actually? This is a question that is often asked.
-- Due to the complexity of operations need to verify or get multiple results for additional validity it’s frequently quite costly to use a oracle in production
+- Due to the complexity of operations need to verify or get multiple results for additional validity it’s frequently quite costly to use an oracle in production
 - Increased risks of centralization and attack surface (Blockchain <> Oracles <> Other APIs)
 
 ## Current Oracle Solutions
